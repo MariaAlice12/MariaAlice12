@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Seu Nome]! 👋</h1>
+<h1 align="center">Hey, I'm Maria Alice! 👋</h1>
 
 <p align="center">
   🎯 Data Analyst | 💡 Strategic Thinker | 🧠 BI Enthusiast<br>
